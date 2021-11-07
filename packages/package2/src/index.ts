@@ -1,2 +1,2 @@
-export { default as cookies }  from "cookies-js"
+export { default as cookiesJs }  from "cookies-js"
 export const temp = 123
